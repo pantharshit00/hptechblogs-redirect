@@ -3,5 +3,5 @@
 ##################
 
 /tag/* https://harshitpant.com/tag/:splat 301!
-/* https://harshitpant.com/blog/:splat 301!
 / https://harshitpant.com 301!
+/* https://harshitpant.com/blog/:splat 301!
